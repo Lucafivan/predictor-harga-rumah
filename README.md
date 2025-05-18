@@ -25,11 +25,16 @@ Proyek ini bertujuan untuk memprediksi harga rumah di Indonesia menggunakan Mach
 
 ## Struktur Folder
 rumah-harga-predictor/
-├── data/
+├──data/
+
 ├── notebooks/ 
+
 ├── src/ 
+
 ├── images/
+
 ├── README.md 
+
 └── requirements.txt
 
 
